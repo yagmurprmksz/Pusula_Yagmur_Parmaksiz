@@ -2,7 +2,7 @@
 Yagmur Parmaksiz, yagmurparmaksiz1@gmail.com
 Data Science Case Study
 
-This project aims to analyze and model drug side effects using a dataset containing information about patients' weight, height, gender, and other attributes. The analysis includes data exploration, preprocessing, and modeling to predict potential side effects based on various features.
+This project aims to analyze and model drug side effects using a dataset containing information about patients' weight, height, gender, and other attributes. The analysis includes data exploration, preprocessing, and modeling to predict potential side effects based on various features.You can view the overview of the project in the pdf attachment.
 
 To get started with this project, you'll need to set up your environment and install the necessary packages. Make sure you have the following installed:
 Python (>=3.10)
