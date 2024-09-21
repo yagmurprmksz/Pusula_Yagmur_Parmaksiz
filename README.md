@@ -12,6 +12,7 @@ Required Python packages
 Place the dataset file (side_effect_data.xlsx) in the project directory. Ensure that the path in your code matches the location of the file.
 
 Running the Code:
+I used anaconda navigator
 Open JupyterLab
 Navigate to the project directory
 Open and run the Jupyter notebooks
